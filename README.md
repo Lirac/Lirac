@@ -28,6 +28,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lirac&show_icons=true&locale=en&layout=compact" alt="lirac" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lirac&show_icons=true&locale=en" alt="lirac" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lirac&" alt="lirac" /></p>
